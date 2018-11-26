@@ -25,7 +25,8 @@ description: Data Scientist
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - CoinMarketCap: "http://coinmarketcap.com"
+    - DataCamp: "http://datacamp.com"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://ed-chin-git.github.io"
@@ -57,7 +58,7 @@ footer-link-col: "#404040"
 
  navbar-img: "/body.jpg"
  footer-img: "/img/bgimage.png"
- page-img: "/img/bgimage.png"
+ page-img: "/img/body.jpg"
 
 # --- Footer options --- #
 
@@ -145,7 +146,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Chicago"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
