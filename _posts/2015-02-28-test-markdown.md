@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Cryptocurrency Update
+subtitle: Another bad week for crypto
+gh-repo: ed-chin-git/ed-chin-git.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
