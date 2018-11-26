@@ -39,7 +39,7 @@ avatar: "/EDC.Photo1.jpg"
 # then specify the following parameter
 #title-img: /EDC.Photo1.jpg
 
-# --- Background colour/image options --- #
+# --- Background colour/image options --- #______________________________________________________________________________
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
@@ -56,11 +56,11 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-  navbar-img: "/img/body.jpg"
-  footer-img: "/img/bgimage.png"
+navbar-img: "/img/body.jpg"
+footer-img: "/img/bgimage.png"
 # page-img: "/img/body.jpg"
 
-# --- Footer options --- #
+# --- Footer options --- #_____________________________________________________________________________________________
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
