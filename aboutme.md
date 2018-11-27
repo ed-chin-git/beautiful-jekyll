@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Edgardo Chin  Houston Texas
 ---
 Data Engineer/ Developer experienced in Cobol, Fortran, VB, VFP,  C#,  Python.
 
