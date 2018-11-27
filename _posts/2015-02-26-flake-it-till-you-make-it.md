@@ -1,15 +1,13 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: If you had a magic wand, what one talent problem would you solve?
+subtitle: The It Talent problem
 bigimg: /img/path.jpg
-tags: [books, test]
+tags: [technology,IT]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+: If you had a magic wand, what one talent problem would you solve? 
+Responses poured in and addressed challenges around recruiting, developing leaders, and retaining the talent that they currently have. 
+But more than 70 percent of readers would use their magic wand to do only one thing: give business skills to their technologists. 
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
-
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
-
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Their people, they worry, are so narrowly focused on the technology that they fail to see the forest through the trees. They do not understand the business context of their technology work, nor can they have a meaningful discussion with the leaders of the business areas their technology supports. This lack of business-savvy technology talent is a serious problem for every company that relies on technology to exist (which is, of course, every company). Those beautifully “blended executives,” who can talk technology in one meeting and can talk business in another, are rare birds. Yet with technology moving directly into the revenue stream of your company, you need them, and your need is only going to increase. One option is to spend all of your time (and money) recruiting blended executives from the outside. You will be in heated competition with every other company in your market, and if your recruiting function is not a competitive weapon for you, you will find yourself in a losing battle.
