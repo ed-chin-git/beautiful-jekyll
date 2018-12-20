@@ -72,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: false
-  email: "ed.chin@cybersystant.com"
+  email: "edgardochin@gmail.com"
 #  facebook: daattali
   github: ed-chin-git
-  twitter: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
