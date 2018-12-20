@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Edgardo Chin
+title: Ed Chin
 subtitle: Houston Texas
 ---
 Data Engineer/ Developer experienced in Cobol, Fortran, VB, VFP,  C#,  Python.
