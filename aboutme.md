@@ -4,9 +4,9 @@ title: Ed Chin
 subtitle: Houston Texas
 ---
 ### Skills
-Data Engineer in Python, Pandas, Geopandas 
-Web DeveloperC#, HTML / CSS, JavaScript
-Legacy programmer: Cobol, Fortran, VB, VFP, SQL, Excel VBA
+Data Science: in Python, SQL, Tensorflow, 
+Web: C#, HTML / CSS, JavaScript
+Legacy: Cobol, Fortran, VB, VFP, Excel VBA
 Domain expert in Foreign Exchange and Treasury Operations
 
 ### Experience
