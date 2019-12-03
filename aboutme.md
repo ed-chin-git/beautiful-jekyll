@@ -3,6 +3,8 @@ layout: page
 title: Ed Chin
 subtitle: Houston Texas
 ---
+![alt text](https://github.com/ed-chin-git/DS-Project-1---Data-Storytelling/raw/master/FAO_logo_Blue_3lines_en.SMALL.jpg)
+
 ### Skills
 Data Science: in Python, SQL, Tensorflow, 
 Web: C#, HTML / CSS, JavaScript
